@@ -1,6 +1,6 @@
 <h2 align="center">Sourced
   Portfolio Website - v1.0.1<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">sam tech</a>
+  <a href="https://samtech10.vercel.app/" target="_blank">SAM Tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
